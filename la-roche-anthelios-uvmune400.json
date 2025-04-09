@@ -1,0 +1,648 @@
+{
+  "keys": [
+    "la-roche-posay/anthelios-fluid-nawilzajaco-ochronny-spf-50/"
+  ],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "LA Roche Anthelios UVMUNE400",
+  "rpc": "LRP06692",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "LA Roche Anthelios UVMUNE400",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "KV-mobile.jpg",
+                  "element": "img",
+                  "alt": "Anthelios UVMUNE400",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "0px",
+                "marginBottom": "0px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": false,
+                "lg": false
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "KV.jpg",
+                  "element": "img",
+                  "alt": "Hyaluron Serum",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "30px",
+                "marginBottom": "30px"
+              },
+              "breakpoints": {
+                "xs": false,
+                "sm": false,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-02-mobile.jpg",
+                  "element": "img",
+                  "alt": "",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "0px",
+                "marginBottom": "0px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": false,
+                "lg": false
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-02.jpg",
+                  "element": "img",
+                  "alt": "",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "30px",
+                "marginBottom": "30px"
+              },
+              "breakpoints": {
+                "xs": false,
+                "sm": false,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "textComponent",
+              "data": [
+                {
+                  "name": "columnOneTitle",
+                  "value": "Kluczowe dermatologiczne składniki aktywne",
+                  "element": "h2",
+                  "properties": {
+                    "fontFamily": "Roboto",
+                    "fontSize": "26px",
+                    "fontWeight": "light",
+                    "color": "#000000",
+                    "text-align": "center",
+                    "textTransform":"uppercase"
+                  }
+                },
+                {
+                  "name": "columnOneText",
+                  "value": "",
+                  "element": "p",
+                  "properties": { "text-align": "center", "font-size": "22px" }
+                }
+              ],
+              "properties": {},
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "fiftyFifty",
+              "variant": "v2",
+              "data": [
+                {
+                  "name": "content",
+                  "value": "<p style=\"font-weight:bold;text-transform:uppercase;margin-bottom: 0px\">MELASYL™</p><p>Redukuje przebarwienia, przechwytując nadmiar melaniny zanim pozostawi zmiany na skórze.</p><br><p style=\"font-weight:bold;text-transform:uppercase;margin-bottom: 0px\">MEXORYL 400</p><p>Chroni przed promieniami UVB, UVA oraz ultradługimi UVA pomiędzy 380 a 400nm.</p>",
+                  "element": "DangerHtml",
+                  "properties": {
+                    "fontFamily": "Roboto",
+                    "fontSize": "19px",
+                    "fontWeight": "normal",
+                    "color": "#000000",
+                    "text-align": "left",
+                    "fontStyle": "normal",
+                    "padding": "0 16px"
+                  }
+                },
+                {
+                  "name": "asset",
+                  "value": "MOD-03.jpg",
+                  "element": "img",
+                  "alt": "Składniki",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "30px",
+                "marginBottom": "16px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-04-mobile.jpg",
+                  "element": "img",
+                  "alt": "Mexoryl 400",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "0px",
+                "marginBottom": "0px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": false,
+                "lg": false
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-04.jpg",
+                  "element": "img",
+                  "alt": "Mexoryl 400",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "30px",
+                "marginBottom": "30px"
+              },
+              "breakpoints": {
+                "xs": false,
+                "sm": false,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "textComponent",
+              "data": [
+                {
+                  "name": "columnOneTitle",
+                  "value": "Odkryj bestsellery La Roche-Posay",
+                  "element": "h2",
+                  "properties": {
+                    "fontFamily": "Roboto",
+                    "fontSize": "26px",
+                    "fontWeight": "light",
+                    "color": "#000000",
+                    "text-align": "center",
+                    "textTransform":"uppercase"
+                  }
+                },
+                {
+                  "name": "columnOneText",
+                  "value": "",
+                  "element": "p",
+                  "properties": { "text-align": "center", "font-size": "22px" }
+                }
+              ],
+              "properties": {},
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "columnsFive",
+              "variant": "v1",
+              "data": [
+                  {
+                      "name": "columnOneTitle",
+                      "value": "Mikro-peelingującyżel oczyszczający",
+                      "element": "h6",
+                      "properties": {
+                        "marginTop": "0",
+                        "marginBottom": "0",
+                        "fontSize": "0.9rem",
+                        "fontWeight": "bold",
+                        "textAlign": "center",
+                        "color": "#000000"
+                      }
+                  },
+                  {
+                      "name": "columnOneText",
+                      "value": "",
+                      "element": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnOneAsset",
+                      "value": "MOD-05-A.jpg",
+                      "element": "img",
+                      "alt": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnTwoTitle",
+                      "value": "Serum przeciw przebarwieniom",
+                      "element": "h6",
+                      "properties": {
+                        "marginTop": "0",
+                        "marginBottom": "0",
+                        "fontSize": "0.9rem",
+                        "fontWeight": "bold",
+                        "textAlign": "center",
+                        "color": "#000000"
+                      }
+                  },
+                  {
+                      "name": "columnTwoText",
+                      "value": "",
+                      "element": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnTwoAsset",
+                      "value": "MOD-05-B.jpg",
+                      "element": "img",
+                      "alt": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnThreeTitle",
+                      "value": "Długotrwała ochrona przed UVA",
+                      "element": "h6",
+                      "properties": {
+                        "marginTop": "0",
+                        "marginBottom": "0",
+                        "fontSize": "0.9rem",
+                        "fontWeight": "bold",
+                        "textAlign": "center",
+                        "color": "#000000"
+                      }
+                  },
+                  {
+                      "name": "columnThreeText",
+                      "value": "",
+                      "element": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnThreeAsset",
+                      "value": "MOD-05-C.jpg",
+                      "element": "img",
+                      "alt": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnFourTitle",
+                      "value": "Kojący balsam nawilżający",
+                      "element": "h6",
+                      "properties": {
+                        "marginTop": "0",
+                        "marginBottom": "0",
+                        "fontSize": "0.9rem",
+                        "fontWeight": "bold",
+                        "textAlign": "center",
+                        "color": "#000000"
+                        }
+                  },
+                  {
+                      "name": "columnFourText",
+                      "value": "",
+                      "element": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnFourAsset",
+                      "value": "MOD-05-D.jpg",
+                      "element": "img",
+                      "alt": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnFiveTitle",
+                      "value": "Regenerujący balsam nawilżający",
+                      "element": "h6",
+                      "properties": {
+                        "marginTop": "0",
+                        "marginBottom": "0",
+                        "fontSize": "0.9rem",
+                        "fontWeight": "bold",
+                        "textAlign": "center",
+                        "color": "#000000"
+                      }
+                  },
+                  {
+                      "name": "columnFiveText",
+                      "value": "",
+                      "element": "",
+                      "properties": {}
+                  },
+                  {
+                      "name": "columnFiveAsset",
+                      "value": "MOD-05-E.jpg",
+                      "element": "img",
+                      "alt": "",
+                      "properties": {}
+                  }
+              ],
+              "properties": {},
+              "breakpoints": {
+                  "xs": true,
+                  "sm": true,
+                  "md": true,
+                  "lg": true
+              }
+            },
+            {
+              "name": "columnsThree",
+              "variant": "v1",
+              "data": [
+                {
+                  "name": "columnOneTitle",
+                  "value": "Benefity",
+                  "element": "h6",
+                  "properties": {
+                    "marginTop": "0",
+                    "marginBottom": "0",
+                    "fontSize": "0.9rem",
+                    "fontWeight": "bold",
+                    "textAlign": "center",
+                    "color": "#000000"
+                  }
+                },
+                {
+                  "name": "columnOneText",
+                  "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top:-15px;\">Oczyszcza i odświeża skórę.<br><br>Widocznie redukuje przebarwienia.<br><br>Wyrównuje koloryt skóry.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki</h6><p>Melasyl™<br>Niacynamid<br>PHA</p></div>",
+                  "element": "DangerHtml",
+                  "properties": {
+                    "fontSize": "13px",
+                    "textAlign": "center"
+                  }
+                },
+                {
+                  "name": "columnOneAsset",
+                  "value": "MOD-06-A.jpg",
+                  "element": "img",
+                  "alt": "",
+                  "properties": {}
+                },
+                {
+                  "name": "columnTwoTitle",
+                  "value": "Benefity",
+                  "element": "h6",
+                  "properties": {
+                    "marginTop": "0",
+                    "marginBottom": "0",
+                    "fontSize": "0.9rem",
+                    "fontWeight": "bold",
+                    "textAlign": "center",
+                    "color": "#404040"
+                  }
+                },
+                {
+                  "name": "columnTwoText",
+                  "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top:-15px;\">Redukuje przebarwienia, nawet te utrwalone.<br><br>Widocznie wyrównuje koloryt skóry.<br><br>Zapobiega nawrotom przebarwień<sup>3</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki</h6><p>Melasyl™<br>Niacynamid<br>Pro-retinol</p></div>",
+                  "element": "DangerHtml",
+                  "properties": {
+                    "fontSize": "13px",
+                    "textAlign": "center"
+                  }
+                },
+                {
+                  "name": "columnTwoAsset",
+                  "value": "MOD-06-B.jpg",
+                  "element": "img",
+                  "alt": "",
+                  "properties": {}
+                },
+                {
+                  "name": "columnThreeTitle",
+                  "value": "Benefity",
+                  "element": "h6",
+                  "properties": {
+                    "marginTop": "0",
+                    "marginBottom": "0",
+                    "fontSize": "0.9rem",
+                    "fontWeight": "bold",
+                    "textAlign": "center",
+                    "color": "#404040"
+                  }
+                },
+                {
+                  "name": "columnThreeText",
+                  "value": "<div><p style=\"margin-bottom:0;min-height:100px;margin-top:-15px;\">Chroni przed UVA/UVB oraz ultradługimi promieniami UVA.<br><br>Zapobiega powstawaniu przebarwień.<br><br>Ma lekką konsystencję niewidoczną na skórze.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Składniki</h6><p>Mexoryl 400<br>Melasyl™</p></div>",
+                  "element": "DangerHtml",
+                  "properties": {
+                    "fontSize": "13px",
+                    "textAlign": "center"
+                  }
+                },
+                {
+                  "name": "columnThreeAsset",
+                  "value": "MOD-06-C.jpg",
+                  "element": "img",
+                  "alt": "",
+                  "properties": {}
+                }
+              ],
+              "properties": {
+                "marginBottom": "32px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-07-mobile.jpg",
+                  "element": "img",
+                  "alt": "Ultralekka, niewidoczna konsystencja",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "0px",
+                "marginBottom": "0px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": false,
+                "lg": false
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-07.jpg",
+                  "element": "img",
+                  "alt": "Ultralekka, niewidoczna konsystencja",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "30px",
+                "marginBottom": "30px"
+              },
+              "breakpoints": {
+                "xs": false,
+                "sm": false,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-08-mobile.jpg",
+                  "element": "img",
+                  "alt": "Wartości La-roche",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "0px",
+                "marginBottom": "0px"
+              },
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": false,
+                "lg": false
+              }
+            },
+            {
+              "name": "keyVisual",
+              "data": [
+                {
+                  "name": "asset",
+                  "value": "MOD-08.jpg",
+                  "element": "img",
+                  "alt": "Wartości La-roche",
+                  "properties": []
+                }
+              ],
+              "properties": {
+                "marginTop": "30px",
+                "marginBottom": "30px"
+              },
+              "breakpoints": {
+                "xs": false,
+                "sm": false,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "textComponent",
+              "data": [
+                {
+                  "name": "columnOneTitle",
+                  "value": "",
+                  "element": "h2",
+                  "properties": {
+                    "fontFamily": "Roboto",
+                    "fontSize": "20px",
+                    "fontWeight": "bold",
+                    "textTransform": "uppercase",
+                    "color": "#000",
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "name": "columnOneText",
+                  "value": "<div style=\"text-align: left\"><p style=\"font-size:16px;margin-bottom: 25px;font-weight:700\">Skąd biorą się przebarwienia na skórze?</p><p style=\"font-size:16px;margin-bottom: 25px;font-weight:400\">Niestety może dojść do sytuacji, w której czynniki środowiskowe, jak promieniowanie UV, stan zapalny czy zaburzenia gospodarki hormonalnej w organizmie nadmiernie stymulują mechanizmy obronne skóry, prowadząc nadprodukcji melaniny. W takiej sytuacji mamy do czynienia ze zjawiskiem hiperpigmentacji.</p><p style=\"font-size:16px;margin-bottom: 25px;font-weight:400\">Hiperpigmentacja – co to takiego?<br>To proces, w którym w reakcji obronnej melanocyty produkują nadmiar melaniny, która zostaje w sposób nierównomierny rozmieszczona w skórze. W ten sposób nadmiar melaniny w skórze sprawia, że niektóre jej obszary są wyraźnie ciemniejsze niż pozostałe. Ciemne plamy, o których mowa, to przebarwienia, które mogą mieć różne pochodzenie.<br>…<br></p><p style=\"font-size:16px;margin-bottom: 25px;font-weight:700\">Jak pozbyć się przebarwień?</p><p style=\"font-size:16px;margin-bottom: 25px;font-weight:400\">W walce z hiperpigmentacją szczególnie skuteczne są takie substancje aktywne jak kwasy AHA i BHA w odpowiednich stężeniach, które delikatnie złuszczają naskórek, niacynamid oraz innowacyjny składnik Melasyl™. Te dwie ostatnie substancje są dostępne w nowej linii produktów La Roche-Posay, Mela B3.<br>…<br></p><p style=\"font-size:16px;margin-bottom: 25px;font-weight:700\">Czy filtr SPF trzeba stosować cały rok?</p><p style=\"font-size:16px;margin-bottom: 25px;font-weight:400\">Tak, stosowanie filtrów UV na twarz i ciało jest niezbędnym elementem codziennej pielęgnacji. Ekspozycja na słońce jest główną przyczyną powstawania przebarwień. Wbrew powszechnemu przekonaniu, promieniowanie UV dociera do nas przez cały rok. Intensywność promieni UVB zmienia się w zależności od pory roku, dnia, lokalizacji geograficznej oraz warunków atmosferycznych, ale promienie UVA przenikają nawet wtedy, gdy niebo jest mocno zachmurzone.</p<</div>",
+                  "element": "DangerHtml",
+                  "properties": {}
+                }
+              ],
+              "properties": {},
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": true,
+                "lg": true
+              }
+            },
+            {
+              "name": "textComponent",
+              "data": [
+                {
+                  "name": "columnOneTitle",
+                  "value": "",
+                  "element": "h2",
+                  "properties": {
+                    "fontFamily": "Roboto",
+                    "fontSize": "20px",
+                    "fontWeight": "bold",
+                    "textTransform": "uppercase",
+                    "color": "#000",
+                    "text-align": "center"
+                  }
+                },
+                {
+                  "name": "columnOneText",
+                  "value": "<div style=\"text-align: left\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">1</sup> Badanie rynku dermokosmetyków z udziałem dermatologów w Polsce, AplusA, I-IV 2024.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">2</sup> Wysoki zakres długości fal UVA [380-400nm].</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">3</sup> Badanie kliniczne na 73 kobietach, 2 tygodnie przerwy po 8 tygodniach użytkowania.</p></div>",
+                  "element": "DangerHtml",
+                  "properties": {}
+                }
+              ],
+              "properties": {},
+              "breakpoints": {
+                "xs": true,
+                "sm": true,
+                "md": true,
+                "lg": true
+              }
+            }
+          ]
+      }
+    }
+  ]
+}
