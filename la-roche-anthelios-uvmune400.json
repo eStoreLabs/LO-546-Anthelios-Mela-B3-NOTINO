@@ -108,12 +108,12 @@
               "data": [
                 {
                   "name": "columnOneTitle",
-                  "value": "Kluczowe dermatologiczne składniki aktywne",
-                  "element": "h2",
+                  "value": "<p><span style=\"font-weight:700;\">Kluczowe dermatologiczne</span> składniki aktywne</p>",
+                  "element": "DangerHtml",
                   "properties": {
                     "fontFamily": "Roboto",
                     "fontSize": "26px",
-                    "fontWeight": "light",
+                    "fontWeight": "100",
                     "color": "#000000",
                     "text-align": "center",
                     "textTransform":"uppercase"
@@ -145,7 +145,7 @@
                   "properties": {
                     "fontFamily": "Roboto",
                     "fontSize": "19px",
-                    "fontWeight": "normal",
+                    "fontWeight": "100",
                     "color": "#000000",
                     "text-align": "left",
                     "fontStyle": "normal",
@@ -220,12 +220,12 @@
               "data": [
                 {
                   "name": "columnOneTitle",
-                  "value": "Odkryj bestsellery La Roche-Posay",
-                  "element": "h2",
+                  "value": "<p> Odkryj bestsellery <span style=\"font-weight:700;\">La Roche-Posay</span></p>",
+                  "element": "DangerHtml",
                   "properties": {
                     "fontFamily": "Roboto",
                     "fontSize": "26px",
-                    "fontWeight": "light",
+                    "fontWeight": "100",
                     "color": "#000000",
                     "text-align": "center",
                     "textTransform":"uppercase"
@@ -258,7 +258,7 @@
                         "marginTop": "0",
                         "marginBottom": "0",
                         "fontSize": "0.9rem",
-                        "fontWeight": "bold",
+                        "fontWeight": "light",
                         "textAlign": "center",
                         "color": "#000000"
                       }
@@ -284,7 +284,7 @@
                         "marginTop": "0",
                         "marginBottom": "0",
                         "fontSize": "0.9rem",
-                        "fontWeight": "bold",
+                        "fontWeight": "light",
                         "textAlign": "center",
                         "color": "#000000"
                       }
@@ -310,7 +310,7 @@
                         "marginTop": "0",
                         "marginBottom": "0",
                         "fontSize": "0.9rem",
-                        "fontWeight": "bold",
+                        "fontWeight": "light",
                         "textAlign": "center",
                         "color": "#000000"
                       }
@@ -336,7 +336,7 @@
                         "marginTop": "0",
                         "marginBottom": "0",
                         "fontSize": "0.9rem",
-                        "fontWeight": "bold",
+                        "fontWeight": "light",
                         "textAlign": "center",
                         "color": "#000000"
                         }
@@ -362,7 +362,7 @@
                         "marginTop": "0",
                         "marginBottom": "0",
                         "fontSize": "0.9rem",
-                        "fontWeight": "bold",
+                        "fontWeight": "light",
                         "textAlign": "center",
                         "color": "#000000"
                       }
